@@ -1,4 +1,4 @@
-# kaveenzathsara# Hi there, I'm Kaveen Zathsara! 👋
+# Hi there, I'm Kaveen Zathsara! 👋
 
 I am a first-year Computer Science student passionate about web development, databases, and cybersecurity.
 
@@ -6,7 +6,7 @@ I am a first-year Computer Science student passionate about web development, dat
 - 🎓 Currently pursuing my Computer Science degree (Semester 2)
 - 💻 Learning Web Programming (JavaScript & PHP) and Database Management Systems
 - 🛠️ Interested in Linux operating systems and Cybersecurity labs (like OverTheWire)
-- 🎮 In my free time, I love listening to hip-hop (Kendrick, Travis, Carti) and gaming
+- 🎮 In my free time, I love listening to hip-hop and gaming
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** JavaScript, PHP, HTML, CSS
