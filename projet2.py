@@ -1,4 +1,4 @@
-#password genarator
+#password generator
 import random
 
 
@@ -11,6 +11,7 @@ numbers=['0','1','2','3','4','5','6','7','8','9']
 symbols=['!','@','#','$','%','^','&','*','(',')']
 
 print("Welcome to the password generator!")
+print("This program will generate a random password for you based on your preferences.")
 nr_letters=int(input("How many letters would you like in your password? : "))
 print()
 nr_numbers=int(input("How many numbers would you like in your password? : "))
